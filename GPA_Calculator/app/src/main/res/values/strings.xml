@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPA_ক্যালকুলেটর</string>
+
+    <string-array name="GPA">
+        <item>Select</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D</item>
+    </string-array>
+</resources>
